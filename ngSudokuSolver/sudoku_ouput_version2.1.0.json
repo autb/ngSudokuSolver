@@ -1,0 +1,1019 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2022-04-29T17:08:39Z",
+    "lastUpdatedDateTime": "2022-04-29T17:08:42Z",
+    "analyzeResult": {
+        "version": "2.1.0",
+        "readResults": [
+            {
+                "page": 1,
+                "angle": -0.2809,
+                "width": 1200,
+                "height": 1200,
+                "unit": "pixel",
+                "lines": [
+                    {
+                        "boundingBox": [
+                            91,
+                            28,
+                            89,
+                            112,
+                            47,
+                            114,
+                            46,
+                            29
+                        ],
+                        "text": "LO",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    92,
+                                    28,
+                                    91,
+                                    77,
+                                    46,
+                                    77,
+                                    47,
+                                    28
+                                ],
+                                "text": "LO",
+                                "confidence": 0.850
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            162,
+                            32,
+                            226,
+                            31,
+                            227,
+                            103,
+                            163,
+                            104
+                        ],
+                        "text": "3",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    175,
+                                    32,
+                                    217,
+                                    31,
+                                    218,
+                                    103,
+                                    176,
+                                    104
+                                ],
+                                "text": "3",
+                                "confidence": 0.997
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            568,
+                            25,
+                            633,
+                            25,
+                            635,
+                            108,
+                            570,
+                            109
+                        ],
+                        "text": "7",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    572,
+                                    25,
+                                    621,
+                                    25,
+                                    621,
+                                    109,
+                                    572,
+                                    109
+                                ],
+                                "text": "7",
+                                "confidence": 0.997
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            763,
+                            157,
+                            767,
+                            238,
+                            702,
+                            240,
+                            699,
+                            159
+                        ],
+                        "text": "LO",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    764,
+                                    157,
+                                    767,
+                                    219,
+                                    702,
+                                    222,
+                                    699,
+                                    159
+                                ],
+                                "text": "LO",
+                                "confidence": 0.802
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            35,
+                            169,
+                            96,
+                            165,
+                            100,
+                            235,
+                            40,
+                            239
+                        ],
+                        "text": "6",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    35,
+                                    169,
+                                    79,
+                                    166,
+                                    83,
+                                    236,
+                                    39,
+                                    239
+                                ],
+                                "text": "6",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            441,
+                            167,
+                            506,
+                            169,
+                            503,
+                            240,
+                            438,
+                            238
+                        ],
+                        "text": "1",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    440,
+                                    167,
+                                    485,
+                                    168,
+                                    483,
+                                    239,
+                                    438,
+                                    238
+                                ],
+                                "text": "1",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            568,
+                            157,
+                            670,
+                            156,
+                            673,
+                            239,
+                            568,
+                            239
+                        ],
+                        "text": "9 |",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    568,
+                                    156,
+                                    620,
+                                    156,
+                                    621,
+                                    239,
+                                    568,
+                                    239
+                                ],
+                                "text": "9",
+                                "confidence": 0.994
+                            },
+                            {
+                                "boundingBox": [
+                                    638,
+                                    156,
+                                    667,
+                                    156,
+                                    668,
+                                    239,
+                                    639,
+                                    239
+                                ],
+                                "text": "|",
+                                "confidence": 0.067
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            179,
+                            297,
+                            235,
+                            300,
+                            234,
+                            369,
+                            178,
+                            366
+                        ],
+                        "text": "9",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    179,
+                                    297,
+                                    218,
+                                    299,
+                                    214,
+                                    368,
+                                    178,
+                                    366
+                                ],
+                                "text": "9",
+                                "confidence": 0.995
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            310,
+                            298,
+                            369,
+                            302,
+                            366,
+                            371,
+                            306,
+                            367
+                        ],
+                        "text": "8",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    310,
+                                    298,
+                                    354,
+                                    301,
+                                    349,
+                                    370,
+                                    306,
+                                    367
+                                ],
+                                "text": "8",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            967,
+                            301,
+                            1028,
+                            299,
+                            1032,
+                            367,
+                            970,
+                            368
+                        ],
+                        "text": "6",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    967,
+                                    300,
+                                    1009,
+                                    299,
+                                    1011,
+                                    367,
+                                    968,
+                                    368
+                                ],
+                                "text": "6",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            35,
+                            431,
+                            97,
+                            428,
+                            100,
+                            499,
+                            38,
+                            502
+                        ],
+                        "text": "8",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    38,
+                                    431,
+                                    84,
+                                    429,
+                                    88,
+                                    500,
+                                    41,
+                                    502
+                                ],
+                                "text": "8",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            567,
+                            432,
+                            632,
+                            427,
+                            635,
+                            498,
+                            570,
+                            503
+                        ],
+                        "text": "6",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    567,
+                                    432,
+                                    609,
+                                    429,
+                                    615,
+                                    500,
+                                    570,
+                                    503
+                                ],
+                                "text": "6",
+                                "confidence": 0.953
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            1101,
+                            422,
+                            1165,
+                            424,
+                            1163,
+                            509,
+                            1099,
+                            507
+                        ],
+                        "text": "3",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.821
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    1105,
+                                    422,
+                                    1160,
+                                    424,
+                                    1158,
+                                    509,
+                                    1103,
+                                    507
+                                ],
+                                "text": "3",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            34,
+                            559,
+                            99,
+                            561,
+                            97,
+                            635,
+                            32,
+                            633
+                        ],
+                        "text": "4",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    38,
+                                    559,
+                                    81,
+                                    560,
+                                    79,
+                                    634,
+                                    35,
+                                    633
+                                ],
+                                "text": "4",
+                                "confidence": 0.997
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            434,
+                            560,
+                            500,
+                            561,
+                            500,
+                            639,
+                            434,
+                            638
+                        ],
+                        "text": "8",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    438,
+                                    560,
+                                    489,
+                                    561,
+                                    487,
+                                    639,
+                                    437,
+                                    638
+                                ],
+                                "text": "8",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            702,
+                            555,
+                            763,
+                            555,
+                            766,
+                            639,
+                            705,
+                            639
+                        ],
+                        "text": "3",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    706,
+                                    555,
+                                    761,
+                                    555,
+                                    761,
+                                    639,
+                                    706,
+                                    639
+                                ],
+                                "text": "3",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            44,
+                            685,
+                            105,
+                            690,
+                            101,
+                            771,
+                            40,
+                            766
+                        ],
+                        "text": "7",
+                        "appearance": {
+                            "style": {
+                                "name": "handwriting",
+                                "confidence": 0.785
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    44,
+                                    685,
+                                    96,
+                                    689,
+                                    90,
+                                    770,
+                                    40,
+                                    766
+                                ],
+                                "text": "7",
+                                "confidence": 0.996
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            568,
+                            693,
+                            633,
+                            694,
+                            630,
+                            772,
+                            566,
+                            771
+                        ],
+                        "text": "2",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    571,
+                                    693,
+                                    622,
+                                    694,
+                                    620,
+                                    772,
+                                    570,
+                                    771
+                                ],
+                                "text": "2",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            1098,
+                            696,
+                            1159,
+                            690,
+                            1164,
+                            767,
+                            1103,
+                            773
+                        ],
+                        "text": "6",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    1098,
+                                    696,
+                                    1144,
+                                    691,
+                                    1151,
+                                    768,
+                                    1103,
+                                    773
+                                ],
+                                "text": "6",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            167,
+                            832,
+                            228,
+                            825,
+                            234,
+                            898,
+                            173,
+                            905
+                        ],
+                        "text": "6",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    167,
+                                    832,
+                                    210,
+                                    827,
+                                    219,
+                                    900,
+                                    173,
+                                    905
+                                ],
+                                "text": "6",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            833,
+                            832,
+                            890,
+                            832,
+                            892,
+                            902,
+                            834,
+                            903
+                        ],
+                        "text": "2",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.821
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    836,
+                                    832,
+                                    882,
+                                    832,
+                                    883,
+                                    903,
+                                    837,
+                                    903
+                                ],
+                                "text": "2",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            973,
+                            827,
+                            1033,
+                            829,
+                            1032,
+                            898,
+                            972,
+                            896
+                        ],
+                        "text": "8",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    973,
+                                    827,
+                                    1017,
+                                    828,
+                                    1014,
+                                    897,
+                                    972,
+                                    896
+                                ],
+                                "text": "8",
+                                "confidence": 0.995
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            1163,
+                            958,
+                            1164,
+                            1038,
+                            1100,
+                            1038,
+                            1100,
+                            959
+                        ],
+                        "text": "LO",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    1164,
+                                    958,
+                                    1164,
+                                    1015,
+                                    1100,
+                                    1016,
+                                    1100,
+                                    958
+                                ],
+                                "text": "LO",
+                                "confidence": 0.806
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            564,
+                            965,
+                            627,
+                            963,
+                            627,
+                            1036,
+                            564,
+                            1038
+                        ],
+                        "text": "1",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    570,
+                                    965,
+                                    612,
+                                    963,
+                                    614,
+                                    1035,
+                                    572,
+                                    1037
+                                ],
+                                "text": "1",
+                                "confidence": 0.997
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            699,
+                            965,
+                            761,
+                            964,
+                            763,
+                            1033,
+                            701,
+                            1034
+                        ],
+                        "text": "9",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    702,
+                                    965,
+                                    743,
+                                    964,
+                                    744,
+                                    1033,
+                                    703,
+                                    1034
+                                ],
+                                "text": "9",
+                                "confidence": 0.996
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            566,
+                            1094,
+                            631,
+                            1091,
+                            633,
+                            1169,
+                            568,
+                            1171
+                        ],
+                        "text": "8",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    569,
+                                    1093,
+                                    614,
+                                    1091,
+                                    617,
+                                    1169,
+                                    572,
+                                    1171
+                                ],
+                                "text": "8",
+                                "confidence": 0.997
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            972,
+                            1091,
+                            1040,
+                            1091,
+                            1041,
+                            1169,
+                            973,
+                            1169
+                        ],
+                        "text": "7",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    972,
+                                    1091,
+                                    1021,
+                                    1091,
+                                    1021,
+                                    1169,
+                                    972,
+                                    1169
+                                ],
+                                "text": "7",
+                                "confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "boundingBox": [
+                            1103,
+                            1089,
+                            1164,
+                            1090,
+                            1164,
+                            1171,
+                            1103,
+                            1170
+                        ],
+                        "text": "9",
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.878
+                            }
+                        },
+                        "words": [
+                            {
+                                "boundingBox": [
+                                    1103,
+                                    1089,
+                                    1154,
+                                    1090,
+                                    1153,
+                                    1171,
+                                    1103,
+                                    1170
+                                ],
+                                "text": "9",
+                                "confidence": 0.994
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "pageResults": [
+            {
+                "page": 1,
+                "tables": []
+            }
+        ]
+    }
+}
